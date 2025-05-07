@@ -1,0 +1,9 @@
+[package]
+name = "rustle"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+once_cell = "1.21.3"
+colored = "3.0.0"
+unicode-segmentation = "1.3.0"
